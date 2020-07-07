@@ -14,15 +14,20 @@
  1. Prework final project
  
 ###  Programming in a high level language
+This course (including the prework) is analagous to a college CS1 cousre. 
+Text https://books.trinket.io/thinkjava/
+
  1. Fundamental Recursion
  1. 2D Arrays
    1. Introduction to 2D arrays
    1. 2D Array project - Conway's game of life
  1. Creating Classes
- 1. Introduction to Data Structures
- 1. Recursion part 2- Towers of Hanoi
+ 1. Introduction to Data Structures (creating a SuperArray Class)
+
 
 ### Data Structures
+
+This course 
   1. Advanced Recursion
   1. Lists
   1. Pointers in Java
