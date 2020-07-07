@@ -27,16 +27,36 @@ Text https://books.trinket.io/thinkjava/
 
 ### Data Structures
 
-This course 
-  1. Advanced Recursion
-  1. Lists
-  1. Pointers in Java
-  1. Linked Lists
-  1. Stacks
-  1. Queues
+This course is analagous to a College CS2 (Data Structures Class). 
+While we're not using a fixed text, 
+  1. Introduction to Data Structures (completing the SuperArray class)
+  1. Pointers in Java (Dynamic Data Structures)
+  1. Linked Lists 
+    1. Creating a linked list
+    1. Insertion / search / deletion
+    1. Comparing and contrasting Linked Lists with Array based structurs
+  1. Built in Java Classes - ArrayList and LinkedList
+  1. Stacks and Queues
+    1. Linked List implementations
+    2. Array based implementaitons
+    3. Creating a stack via inheritence vs encapsulation
   1. Sorting / Searching
+    1. Linear searching
+    2. Binary Search
+    3. Introduction to runtime - Big O notation
+    4. Slow sorts
+    5. Merge sort
+    
   1. Trees
-  
+    1. Binary trees (overview)
+    2. Binary Search Trees
+      1. creation
+      2. insertion
+      3. search
+      4. Deletion
+      5. runtime analysis
+    3. More advanced trees
+    
 ### Topics
 
 ### Methods
