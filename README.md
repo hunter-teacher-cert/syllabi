@@ -28,7 +28,12 @@ Text https://books.trinket.io/thinkjava/
 ### Data Structures
 
 This course is analagous to a College CS2 (Data Structures Class). 
-While we're not using a fixed text, 
+While we're not using a fixed text, here are some useful data structure web sites:
+  - https://www.javatpoint.com/data-structure-tutorial
+  - https://www.geeksforgeeks.org/data-structures/
+  - Data structure visualizations: https://visualgo.net/en
+  - More visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
   1. Introduction to Data Structures (completing the SuperArray class)
   1. Pointers in Java (Dynamic Data Structures)
   1. Linked Lists 
