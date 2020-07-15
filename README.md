@@ -19,12 +19,13 @@ This summer intenstive consists of four classes 3 credit classes plus prework. T
  - 80% : Projects/programming assignments
  - 20% : Participation
 
+Programming in a high level language and Data Structures will consist of day to day programs and assignments. Topics will also include a major group project to be presented to the class as a whole.
 
 
-### Methods will be graded 
+### Methods grading policy 
 
- - 40% : Demonstration of an understanding of CS teaching methods
- - 40% : Deomonstration of the ability to decide on what methods to use and when
+ - 40% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
+ - 40% : Use of effective methods in delivery of Topics project
  - 20% : participation
 
 ## Programmng in a high level language
@@ -96,6 +97,22 @@ While we're not using a fixed text, here are some useful data structure web site
 ### Topics
 
 Specific topics will be determined by prior to the end of the data structures unit.
+
+Suggested project topics:
+  1. Full stack development with Flask
+  2. Genetic Programming
+  3. 3D computer graphics
+  4. Ray Tracing
+  5. Data mining (clustering)
+  6. AI (search - BFS, DFS, A*)
+  7. AI/ML - Bayes filtering
+  8. AI/ML - decoding a Caesar Cipher, recommender system
+  10. Networking
+  11. Databases
+  12. Language processing (n-grams)
+  
+  
+
 
 ### Methods
 
