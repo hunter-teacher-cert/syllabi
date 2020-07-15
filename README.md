@@ -69,20 +69,20 @@ While we're not using a fixed text, here are some useful data structure web site
   1. Introduction to Data Structures (completing the SuperArray class)
   1. Pointers in Java (Dynamic Data Structures)
   1. Linked Lists 
-    1. Creating a linked list
-    1. Insertion / search / deletion
-    1. Comparing and contrasting Linked Lists with Array based structurs
+     1. Creating a linked list
+     1. Insertion / search / deletion
+     1. Comparing and contrasting Linked Lists with Array based structurs
   1. Built in Java Classes - ArrayList and LinkedList
   1. Stacks and Queues
-    1. Linked List implementations
-    2. Array based implementaitons
-    3. Creating a stack via inheritence vs encapsulation
+     1. Linked List implementations
+     2. Array based implementaitons
+     3. Creating a stack via inheritence vs encapsulation
   1. Sorting / Searching
-    1. Linear searching
-    2. Binary Search
-    3. Introduction to runtime - Big O notation
-    4. Slow sorts
-    5. Merge sort
+     1. Linear searching
+     2. Binary Search
+     3. Introduction to runtime - Big O notation
+     4. Slow sorts
+     5. Merge sort
     
   1. Trees
     1. Binary trees (overview)
@@ -137,7 +137,7 @@ CS Methods will be integrated in other three courses.
 
 
 
-# Hunter College Policy on Academic Integrity
+## Hunter College Policy on Academic Integrity
 
 Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations,
 obtaining unfair advantage, and falsification of records and official documents) as serious offenses
@@ -145,7 +145,7 @@ against the values of intellectual honesty. The College is committed to enforcin
 on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College
 Academic Integrity Procedures.
 
-# ADA Policy
+## ADA Policy
 
 In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the
 Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and
