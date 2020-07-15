@@ -16,16 +16,16 @@ This summer intenstive consists of four classes 3 credit classes plus prework. T
 
 ### Programming in a high level language, data structures, and topics are project based. They will be graded as follows:
 
-80% : Projects/programming assignments
-20% : Participation
+ - 80% : Projects/programming assignments
+ - 20% : Participation
 
 
 
 ### Methods will be graded 
 
-40% : Demonstration of an understanding of CS teaching methods
-40% : Deomonstration of the ability to decide on what methods to use and when
-20% : participation
+ - 40% : Demonstration of an understanding of CS teaching methods
+ - 40% : Deomonstration of the ability to decide on what methods to use and when
+ - 20% : participation
 
 ## Programmng in a high level language
 
