@@ -135,3 +135,22 @@ CS Methods will be integrated in other three courses.
 - pair programming 
 - standards based grading
 
+
+
+# Hunter College Policy on Academic Integrity
+
+Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations,
+obtaining unfair advantage, and falsification of records and official documents) as serious offenses
+against the values of intellectual honesty. The College is committed to enforcing the CUNY Policy
+on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College
+Academic Integrity Procedures.
+
+# ADA Policy
+
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the
+Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and
+accommodations for all students with documented disabilities and/or medical conditions. It is
+recommended that all students with documented disabilities (Emotional, Medical, Physical, and/or
+Learning) consult the Office of AccessABILITY, located in Room E1214B, to secure necessary
+academic accommodations. For further information and assistance, please call: (212) 772- 4857 or
+(212) 650-3230.
