@@ -134,7 +134,7 @@ CS Methods will be integrated in other three courses.
 - teaching debugging
 - pair programming 
 - standards based grading
-
+- map reduce
 
 
 ## Hunter College Policy on Academic Integrity
