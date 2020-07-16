@@ -110,6 +110,8 @@ Suggested project topics:
   10. Networking
   11. Databases
   12. Language processing (n-grams)
+  13. Blockchain
+  
   
   
 
