@@ -28,6 +28,25 @@ Programming in a high level language and Data Structures will consist of day to 
  - 40% : Use of effective methods in delivery of Topics project
  - 20% : participation
 
+### Topics grading policy addendum
+	The topics class will require each student to work in a team to
+    research and deliver a project on a topic in computer science that
+    they select. The project will include both a GitHub repo and a
+    class presentation.
+	
+	The project must:
+	1. Exhibit that the participants have a knowledge and understanding of the topic. 
+	2. Include a lesson or unit outline illustrating how they would deliver instruction on this topi.c
+	3. Show an understanding of appropriate pedagogical techniques that could be used when delivering instruction based on this topic.
+	4. Code illustrating at least proof of concept on the selected topic.
+	 
+
+        the content
+        a description of pedagogical techniques you will either use in your presentation or plan to use when you deliver this to an in- person class.
+        Source code (what you expect your students to create)
+        Links to resources on the topic
+
+
 ## Programmng in a high level language
 
 ## By the end of this course, students will be able to:
@@ -63,6 +82,7 @@ Text https://books.trinket.io/thinkjava/
 
 
 ### Data Structures
+
 ## By the end of this course, students will be able to:
    - understand each data structure covered in this course.
    - implement the covered data structures to solve a variety of real world problems.
@@ -117,18 +137,19 @@ While we're not using a fixed text, here are some useful data structure web site
 Specific topics will be determined by prior to the end of the data structures unit.
 
 Suggested project topics:
-  1. Full stack development with Flask
-  2. Genetic Programming
-  3. 3D computer graphics
-  4. Ray Tracing
-  5. Data mining (clustering)
-  6. AI (search - BFS, DFS, A*)
-  7. AI/ML - Bayes filtering
-  8. AI/ML - decoding a Caesar Cipher, recommender system
-  10. Networking
-  11. Databases
-  12. Language processing (n-grams)
-  13. Blockchain
+
+ 1. Full stack development with Flask
+ 2. Genetic Programming
+ 3. 3D computer graphics
+ 4. Ray Tracing
+ 5. Data mining (clustering)
+ 6. AI (search - BFS, DFS, A*)
+ 7. AI/ML - Bayes filtering
+ 8. AI/ML - decoding a Caesar Cipher, recommender system
+ 10. Networking
+ 11. Databases
+ 12. Language processing (n-grams)
+ 13. Blockchain
   
   
 The instructors will deliver lessons in selected topics determined based on student project selections.
