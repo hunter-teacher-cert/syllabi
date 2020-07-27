@@ -53,7 +53,7 @@ Text https://books.trinket.io/thinkjava/
    1. Introduction to 2D arrays
    1. 2D Array project - Conway's game of life
  1. Creating Classes
- 1. Introduction to Data Structures (creating a SuperArray Class)
+ 1. Introduction to Data Structures (creating a SuperArray Class -project)
 
 
 ### Data Structures
@@ -68,25 +68,25 @@ While we're not using a fixed text, here are some useful data structure web site
 
   1. Introduction to Data Structures (completing the SuperArray class)
   1. Pointers in Java (Dynamic Data Structures)
-  1. Linked Lists 
+  1. Linked Lists (projet0
      1. Creating a linked list
      1. Insertion / search / deletion
      1. Comparing and contrasting Linked Lists with Array based structurs
   1. Built in Java Classes - ArrayList and LinkedList
-  1. Stacks and Queues
+  1. Stacks and Queues (mini project)
      1. Linked List implementations
      2. Array based implementaitons
      3. Creating a stack via inheritence vs encapsulation
   1. Sorting / Searching
      1. Linear searching
-     2. Binary Search
+     2. Binary Search (project)
      3. Introduction to runtime - Big O notation
      4. Slow sorts
-     5. Merge sort
-    
+     5. Merge sort (project)
+     
   1. Trees
     1. Binary trees (overview)
-    2. Binary Search Trees
+    2. Binary Search Trees (projectr)
       1. creation
       2. insertion
       3. search
