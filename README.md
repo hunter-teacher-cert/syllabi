@@ -113,6 +113,8 @@ Suggested project topics:
   13. Blockchain
   
   
+The instructors will deliver lessons in selected topics determined based on student project selections.
+  
   
 
 
