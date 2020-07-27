@@ -30,6 +30,12 @@ Programming in a high level language and Data Structures will consist of day to 
 
 ## Programmng in a high level language
 
+## By the end of this course, students will be able to:
+1. Understand the basics of object oriented computer programming including classes, methods, variables, data flow, data types and data structures.
+2. Write programs of moderate complexity 
+3. Acquire data from outside sources and use programming techniques to analyze data and visualize results.
+5. Use techniques from the field of computer science and apply them to problems in other fields.
+
 ### Prework
  1. Setting up a Java development envirotnment and GitHub
  1. Your first Java program.
@@ -57,6 +63,12 @@ Text https://books.trinket.io/thinkjava/
 
 
 ### Data Structures
+## By the end of this course, students will be able to:
+   - understand each data structure covered in this course.
+   - implement the covered data structures to solve a variety of real world problems.
+   - design appropriate algorithms, data structures, and solutions to solve a variety of problems in a variety of domains
+   - design learning experiences for a diverse population of learners  in the domains of data structures and algorithms and applied data structures and algorithms.
+
 
 This course is analagous to a College CS2 (Data Structures Class). 
 While we're not using a fixed text, here are some useful data structure web sites. Each site has a section matching the topics listed below. Topics will be covered roughly sequentially with assignments in the day2day directory of the class repository:
@@ -96,6 +108,12 @@ While we're not using a fixed text, here are some useful data structure web site
     
 ### Topics
 
+## By the end of this course, students will be able to:
+  - learn the fundamentals of each subfield studied in this course.
+  - use online and community resources to further their own professional development and study of computer science.
+  - design and implement developmentally appropriate computer science instructional content for a diverse population of learners based on content learned in this course.
+
+
 Specific topics will be determined by prior to the end of the data structures unit.
 
 Suggested project topics:
@@ -119,6 +137,13 @@ The instructors will deliver lessons in selected topics determined based on stud
 
 
 ### Methods
+
+## By the end of this course, students will be able to:
+   - develop coherent, meaningful goals, plans and materials.
+   - Plan and deliver effective computer science instruction.
+   - assess learning and differentiate instruction for diverse populations.
+   - Employ a variety of effective pedagogical standards in order to deliver instruction aligned with the proposed CSTA standards.
+   - Use current technology and CS content and wil be able to learn new technologies and content. Teacher-candidates will be able to develop coherent, meaningful goals, plans, and materials.
 
 CS Methods will be integrated in other three courses. 
 
