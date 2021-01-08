@@ -47,8 +47,10 @@ N/A
 ### Pedagogical techniques covered
 
 1. Rubber Duck Debugging 
+   - CT 9
 1. Worked Examples
 1. Making predictions
+   - CT 9
 1. Scaffolding CS assignments
    - CT 4 
 1. Ethical issues (copying vs collaborating)
