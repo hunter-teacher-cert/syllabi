@@ -38,7 +38,7 @@ N/A
 
 
 # Standards note
-	DL 1-7 covered in preparation and development of student led projects. Additional standards mappings noted below 
+	DL 1-7, IC 1,2,6  covered in preparation and development of student led projects. Additional standards mappings noted below 
 	
 ### Topics
 
@@ -57,11 +57,15 @@ N/A
 	- Web Hosting a Flask application
 	- NSD 1 - 5 
 	- CY 1, 2, 3
+	- IC 4, 6
  1. Data Mining (Student led topic)
 	- Finding, retrieving and analyzing real world data.
+	- IC 5
  1. Public Key Encryption (Student led topic)
 	- CY 1-5 (emphasis on 3)
+	- IC 1,2,4
  1. Blockchain (Student led topic)
+    - ic 4
  1. Natural Language Processing (Student led topic)
  1. Classic AI - Decision Trees (Student led topic)
  1. Databases and SQL (Student led topic)

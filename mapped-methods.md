@@ -50,16 +50,26 @@ N/A
 1. Worked Examples
 1. Making predictions
 1. Scaffolding CS assignments
+   - CT 4 
 1. Ethical issues (copying vs collaborating)
+   - IC 1, 2 
 1. Unplugged activities
+   - IC 1
 1. Differentiated (layered) assignments
 1. Live coding
 1. Subgoal labelling
+   - CT 9
 1. Setting up workflows
+	- DL 1 - 7
 1. Pair programming
-1. Diagramming
-1. Implementing libarary code
+   - CT 10
+1. Diagramming  
+   CT 9
+
+1. Implementing library code
+   - CT 4
 1. Using remote tools (Slac, GitHub)
+   - IC 3, 4
 1. Misc techniques (warm up qotes, tasks etc., class routines)
 
 ## Hunter College Policy on Academic Integrity
