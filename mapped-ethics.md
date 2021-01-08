@@ -50,6 +50,7 @@ There is no required text for this course. Readings will be assigned from a vari
 
 - Assignment
   - Write a one-page summary of a current topic concerning Ethical CS.
+- IC 1-5
 
 ##### Week 2 - Using data / Analyzing data
 - Review of Python
@@ -62,6 +63,7 @@ There is no required text for this course. Readings will be assigned from a vari
 - Assignment:
   - Write a program to explore the Titanic data (based on
             [http://www.awesomestats.in/python-pandas-titanic/](http://www.awesomestats.in/python-pandas-titanic/) <--link broken. Need fix. )
+
 
 ##### Week 3 - Looking at Census data (anonymity)
 
@@ -81,6 +83,8 @@ There is no required text for this course. Readings will be assigned from a vari
 - Assignment:
   - Write a program to analyze Census data to determine how unique you are based on zip code, gender, and birth date.
 
+- CT 2 - 4, 9 - 10
+
 ##### Week 4 - Unintended consequences - when the motive is profit
 
 - Class lab assignment:
@@ -96,6 +100,10 @@ conclusions.
 
 - Term assignment:
   - Select and explore a topic relevant to Ethical CS (to be approved by the instructor). Create a presentation giving an overview of the issue, why it should be addressed, and possible solutions. The presentation should include program-based examples illustrating the problem and where appropriate to address solutions.
+
+- IC 1, 3-7
+- CT 4,5,8-10
+
 
 ##### Week 5 - Web privacy
 
@@ -113,6 +121,8 @@ conclusions.
 - Assignment:
   - Short written assignment on how a service used by each student collects and uses their data.
 
+- CY 1 - 3
+
 ##### Week 6 - Unintended Consequences, Part 2 -- Internationalization
 
 - Class lab assignment:
@@ -122,6 +132,7 @@ conclusions.
   - Run on set of international applicants. Discuss bias.
 - Assignment: Redesign and rewrite resume scanner to better
 account for national bias.
+
 
 ##### Week 7 - Politics and Policy
 
@@ -135,6 +146,10 @@ account for national bias.
   - [https://en.wikipedia.org/wiki/REDMAP](https://en.wikipedia.org/wiki/REDMAP)
   - [https://en.wikipedia.org/wiki/Maptitude](https://en.wikipedia.org/wiki/Maptitude)
   - [https://bdistricting.com/2010/](https://bdistricting.com/2010/)
+
+- DL 4,5
+- IC 1-3,7
+- CT 2-4,8-10
 
 ##### Week 8 - Social Justice and Computer Science Education
 
@@ -189,6 +204,8 @@ account for national bias.
   - [http://flask.pocoo.org/docs/0.12/tutorial/](http://flask.pocoo.org/docs/0.12/tutorial/)
   - [https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
+- IC 6
+
 ##### Week 12 - Software Models
 
 - Commercial vs Freemium vs Free.
@@ -220,6 +237,8 @@ repositories.
 
 - Case study: Security vs convenience
   - [https://www.pcworld.com/article/257793/why\_convenience\_is\_the\_enemy\_of\_security.html] (https://www.pcworld.com/article/257793/why_convenience_is_the_enemy_of_security.html)
+
+- IC 6
 
 ##### Week 14 - Student project presentations
 
