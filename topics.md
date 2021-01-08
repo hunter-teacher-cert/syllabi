@@ -52,21 +52,15 @@ N/A
 	- Web Hosting a Flask application
  1. Data Mining (Student led topic)
 	- Finding, retrieving and analyzing real world data.
-	- IC 7
-	- CT 2, 3
  1. Public Key Encryption (Student led topic)
  1. Blockchain (Student led topic)
  1. Natural Language Processing (Student led topic)
  1. Classic AI - Decision Trees (Student led topic)
  1. Databases and SQL (Student led topic)
-	- IC 7
  1. Data Visualization (Student led topic)
-	- CT 2, 3
-	- IC 7 
 
  1. Cipher Decryption / Recommender systems (Student led topic)
  1. Genetic Programming (Student led topic)
-    - IC 7
  1. Class AI - Search (BFS, DFS, A*) (Student led topic)
   
 

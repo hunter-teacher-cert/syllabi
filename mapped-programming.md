@@ -26,6 +26,7 @@ Text https://books.trinket.io/thinkjava/
 See specific pre-work topic web page for readings, assignment and other details (https://github.com/hunter-teacher-cert/pre-work).
 
  1. Setting up a Java development envirotnment and GitHub
+    - DL 4,5,6
  1. Your first Java program.
  1. data Types
  1. Void methods

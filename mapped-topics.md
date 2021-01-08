@@ -46,6 +46,7 @@ N/A
 	- advanced recursion
 	- proof
 	- intractable problems
+	- CT 1,4,5,6,7,10
  1. Computer networks
 	- Networking fundamentals
 	- Design of the internet
@@ -60,19 +61,29 @@ N/A
 	- IC 4, 6
  1. Data Mining (Student led topic)
 	- Finding, retrieving and analyzing real world data.
-	- IC 5
+	- IC 5, 7
+	- CT 2, 3
+
  1. Public Key Encryption (Student led topic)
 	- CY 1-5 (emphasis on 3)
 	- IC 1,2,4
+	- CT 4,6
  1. Blockchain (Student led topic)
     - ic 4
  1. Natural Language Processing (Student led topic)
  1. Classic AI - Decision Trees (Student led topic)
  1. Databases and SQL (Student led topic)
+   	- IC 7
+
  1. Data Visualization (Student led topic)
- 1. Cipher Decryption / Recommender systems (Student led topic)
+	- CT 2, 3
+	- IC 7 
+
+1. Cipher Decryption / Recommender systems (Student led topic)
 	- CY 1-5 (emphasis on 3)
  1. Genetic Programming (Student led topic)
+	- CT 4-9
+	- IC 7
  1. Class AI - Search (BFS, DFS, A*) (Student led topic)
   
 
