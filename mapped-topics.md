@@ -69,7 +69,8 @@ N/A
 	- IC 1,2,4
 	- CT 4,6
  1. Blockchain (Student led topic)
-    - ic 4
+    - IC  4
+	- CY 1-5
  1. Natural Language Processing (Student led topic)
  1. Classic AI - Decision Trees (Student led topic)
  1. Databases and SQL (Student led topic)
