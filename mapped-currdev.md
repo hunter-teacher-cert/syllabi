@@ -11,7 +11,14 @@
 ### Program slack link: https://hunterteacher-vyz6159.slack.com
 
 ## Required Texts:
-There Is No Required Text For This Class. Readings Will Be Assigned From A Variety Of Sources Week To Week And Are Outlined In The Syllabus.
+
+There Is No Required Text For This Class. Readings Will Be Assigned
+From A Variety Of Sources Week To Week And Are Outlined In The
+Syllabus. Student's curricular assignments are expected to be mapped
+to the New York State standards.
+
+Additionally, CT 1,3,4,5,6,7, and 9 are covered in week 
+  
 
 ## Course Description:
 
@@ -55,6 +62,21 @@ In Schools Selected By The College.
   * Most fieldwork will consist of observing other teachers, being observed by fellow candidates & having post observation discussions.
   * Some of the fieldwork must be in the K-5 space, we are working on providing opportunities to work with K-5 teachers, as all candidates are currently in 6-12.
 
+
+### Standards
+
+Week 7 is dedicated to studying the New York State Computer Science
+and Digital Fluency Learning Standards. This is also true to a lesser
+extend for week 3 when the class surveys popular pre-packaged CS
+Curricula.
+	
+| Area | Standard      |
+|------|---------------|
+| CT   | 1,3,4,5,6,7,9 |
+| DL   | 1,2,3,4,5,6,7 |
+| CY   | 1,3           |
+| IC   | 1,2,3,4,6,7   |
+
 ## Course Content And Organization:
 
 * Week 1 - Introductions, What's In A Curriculum, How Are Courses Designed
@@ -86,7 +108,7 @@ In Schools Selected By The College.
     * Begin to create your unit plan proposal.
 
 * Week 5 - Evaluating Programming Languages for Education
-  *
+  * CT 1,3,4,5,6,7,9
 
 * Week 6 - Different Approaches To Curriculum Development
   * Slideshare On Curriculum Approaches: [[Http://Www.Slideshare.Net/Iansagabaen28/Curriculum-Approaches-41755984]{.Ul}](Http://Www.Slideshare.Net/Iansagabaen28/Curriculum-Approaches-41755984)
@@ -105,11 +127,13 @@ In Schools Selected By The College.
 * Week 10 - Using Technical Tools And Integrating Them Into Classes
   * Assignment: Continue Developing Curriculum Proposal
   * Fieldwork Sharing
-
+  * DL 1,2,3,4,5,6,7
+  * CY 1,3
+  
 * Week 11 - Including Ancillary Topics And Techniques Social, Societal, And Ethical Issues Cross Curricular Topics
   * Assignment: Develop A Lesson Plan For A Class In Your Curriculum Highlighting How It Incorporates These Topics
   * Fieldwork Sharing
-
+  * IC 1,2,3,4,6,7 
 * Week 12 - Curriculum Presentations
   * Fieldwork Sharing
 
