@@ -36,6 +36,12 @@ their applications relevant in a classroom setting.
 Readings and references can be found by going javatpoint.com site and
 finding the link matching the topic name.
 
+### Standards Summary
+
+ | Area | Stanards covered |
+ |------|------------------|
+ | CT   | 2,3,5,6,7        |
+ | NSD  | 1,4              |
 
 ### Topics
 
@@ -48,7 +54,13 @@ finding the link matching the topic name.
      1. Insertion / search / deletion
      1. Comparing and contrasting Linked Lists with Array based structurs
 	 - Assignment: Linked List data structure implementation
+	 - CT 2
+	 - CT 3
+	 - NSD 1
   1. Built in Java Classes - ArrayList and LinkedList
+	 - CT 5
+	 - CT 6
+	 - NSD 1
   1. Stacks and Queues (mini project)
      1. Stack and queue definitions (FIFO, LIFO)
      1. Linked List implementations
@@ -65,6 +77,9 @@ finding the link matching the topic name.
 	 - Assignment: Selection sort implementation
      5. Merge sort (project)
 	 - Assignment: Merge sort implementation
+	 - CT 6
+	 - CT 7
+	 
   1. Run Time analysis (Big-Oh notation)
     - Sorting and searching comparisons
 	- time and space tradeoffs in algorithmns
@@ -78,6 +93,8 @@ finding the link matching the topic name.
       5. runtime analysis
 	  - Assignment: Binary Search Tree implementation
     3. More advanced trees
+	- NSD 4
+	
 
 
 

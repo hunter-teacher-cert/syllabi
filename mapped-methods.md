@@ -43,6 +43,13 @@ populations and circumstances.
 
 N/A
 
+# Standards note
+
+| Area | Standards Covered |
+|------|-------------------|
+| IC   | 1,2,3,4           |
+| CT   | 4,9,10            |
+| DL   | 1,2,3,4,5,6,7     |
 
 ### Pedagogical techniques covered
 

@@ -21,6 +21,16 @@ Programming in a high level language introduces students to computer programming
 
 Text https://books.trinket.io/thinkjava/
 
+## Standards Summary
+
+ | Area | Stanards covered |
+ |------|------------------|
+ | IC   | 3                |
+ | CT   | 1,2,4,5,6,7,8,9  |
+ | DL   | 4,5,6            |
+
+
+
 ## Prework (each topic includes a programming assignment)
 
 See specific pre-work topic web page for readings, assignment and other details (https://github.com/hunter-teacher-cert/pre-work).

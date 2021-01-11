@@ -37,6 +37,16 @@ There is no required text for this course. Readings will be assigned from a vari
 - Other assignments: 10%
 - Class participation: 10%
 
+# Standards note
+
+| Area | Standards Covered |
+|------|-------------------|
+| IC   | 1,2,3,4,5,6,7     |
+| CT   | 2,3,4,5,8,9,10    |
+| CY   | 1,2,3             |
+| DL   | 4,5               |
+
+
 ## Course Content and Organization:
 
 ##### Week 1 -- Overview

@@ -22,7 +22,7 @@ the documentation and source code and a class presentation.
 The project must:
 
 	1. Exhibit that the participants have a knowledge and understanding of the topic. 
-	2. Include a lesson or unit outline illustrating how they would deliver instruction on this topi.c
+	2. Include a lesson or unit outline illustrating how they would deliver instruction on this topic.
 	3. Show an understanding of appropriate pedagogical techniques that could be used when delivering instruction based on this topic.
 	4. Code illustrating at least proof of concept on the selected topic.
 
@@ -38,6 +38,16 @@ N/A
 
 
 # Standards note
+
+| Area | Standards Covered    |
+|------|----------------------|
+| DL   | 1,2,3,4,5,6,7        |
+| IC   | 1,2,4,5,6,7          |
+| CT   | 1,2,3,4,5,6,7,8,9,10 |
+| NSD  | 1,2,3,4,5            |
+| CY   | 1,2,3,4,5            |
+
+
 	DL 1-7, IC 1,2,6  covered in preparation and development of student led projects. Additional standards mappings noted below 
 	
 ### Topics
