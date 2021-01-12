@@ -5,34 +5,34 @@ Teacher-candidates will also become knowledgable in social and ethical issues re
 Within each of the specific topics, attention will be paid to working with diverse populations as well as aligning lessons to the proposed CSTA standards. Additionally, topics such as classroom management techniques, questioning, and using assessments to drive instruction will be woven throughout all of the units.
 # Weekly syllabus:
 
-    1. Review of CS Educational experiences
-    2. Managing a CS class, introduction to differentiating instruction in a CS class
-        1. Assignment: Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s, develop differentiated lesson.
-    3. Python introduction, review of CS learning resources for students and teachers ; review of standards.
-        1. Assignment:L review of APCSP and APCSA curricula.
-    4. Using Collaborative tools / SysAdmin and SiteAdmin in the CS classroom
-        1. Reading: Griffin and Seals
-        2. Assignment: Create github classroom
-    5. Using worked examples and code reading
-        1. Reading: Griffin
-        2. Assignment: Create worked example assignment in Python
-    6. Reading for computer science
-        1. Reading: Santo
-        2. Assignment: Develop code reading unit
-    7. Code reading and code snippets
-        1. Unit presentations
-    8. Copying vs collaborating (and related ethical issues)
-        1. Reading: Calif and Goodwin
-    9. Collecting evaluating and distrubuting homework
-        1. Project / Assignment: GitHub lab
-    10. Data driven Assignments (real world)
-        1. Study of NYC Data Mine
-    11. Scaffolding code and skeleton files
-    12. Learning by getting things wrong / test driven development
-        1. Reading: Selections from Shore and Watson
-    13. HW , Assessment, and project design from idea to completion
-    14. Code review
-    15. General problem solving (how to solve a problem)
+1. Review of CS Educational experiences
+2. Managing a CS class, introduction to differentiating instruction in a CS class
+1. Assignment: Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s, develop differentiated lesson.
+3. Python introduction, review of CS learning resources for students and teachers ; review of standards.
+  1. Assignment:L review of APCSP and APCSA curricula.
+4. Using Collaborative tools / SysAdmin and SiteAdmin in the CS classroom
+  1. Reading: Griffin and Seals
+  2. Assignment: Create github classroom
+5. Using worked examples and code reading
+  1. Reading: Griffin
+  2. Assignment: Create worked example assignment in Python
+6. Reading for computer science
+  1. Reading: Santo
+  2. Assignment: Develop code reading unit
+7. Code reading and code snippets
+  1. Unit presentations
+8. Copying vs collaborating (and related ethical issues)
+  1. Reading: Calif and Goodwin
+9. Collecting evaluating and distrubuting homework
+  1. Project / Assignment: GitHub lab
+10. Data driven Assignments (real world)
+  1. Study of NYC Data Mine
+11. Scaffolding code and skeleton files
+12. Learning by getting things wrong / test driven development
+  1. Reading: Selections from Shore and Watson
+13. HW , Assessment, and project design from idea to completion
+14. Code review
+15. General problem solving (how to solve a problem)
 
 # Learning Outcomes
 
