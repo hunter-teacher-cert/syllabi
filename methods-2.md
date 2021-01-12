@@ -25,7 +25,7 @@ Within each of the specific topics, attention will be paid to working with diver
 8. Copying vs collaborating (and related ethical issues)
    1. Reading: Calif and Goodwin
 9. Collecting evaluating and distrubuting homework
-   1. Project / Assignment: GitHub lab
+   1. Project / Assignment: GitHub lab 
 10. Data driven Assignments (real world)
    1. Study of NYC Data Mine
 11. Scaffolding code and skeleton files
