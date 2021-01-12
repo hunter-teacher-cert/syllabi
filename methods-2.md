@@ -6,7 +6,6 @@ Within each of the specific topics, attention will be paid to working with diver
 # Weekly syllabus:
 
  1. Review of CS Educational experiences
-
  2. Managing a CS class, introduction to differentiating instruction in a CS class
    1. Assignment: Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s, develop differentiated lesson.
  3. Python introduction, review of CS learning resources for students and teachers ; review of standards.
