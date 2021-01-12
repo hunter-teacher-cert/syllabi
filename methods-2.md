@@ -27,10 +27,10 @@ Within each of the specific topics, attention will be paid to working with diver
 9. Collecting evaluating and distrubuting homework
    1. Project / Assignment: GitHub lab 
 10. Data driven Assignments (real world)
-   1. Study of NYC Data Mine
+    1. Study of NYC Data Mine
 11. Scaffolding code and skeleton files
 12. Learning by getting things wrong / test driven development
-   1. Reading: Selections from Shore and Watson
+    1. Reading: Selections from Shore and Watson
 13. HW , Assessment, and project design from idea to completion
 14. Code review
 15. General problem solving (how to solve a problem)
