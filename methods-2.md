@@ -21,16 +21,16 @@ Within each of the specific topics, attention will be paid to working with diver
    1. Reading: Santo
    2. Assignment: Develop code reading unit
 7. Code reading and code snippets
-  1. Unit presentations
+   1. Unit presentations
 8. Copying vs collaborating (and related ethical issues)
-  1. Reading: Calif and Goodwin
+   1. Reading: Calif and Goodwin
 9. Collecting evaluating and distrubuting homework
-  1. Project / Assignment: GitHub lab
+   1. Project / Assignment: GitHub lab
 10. Data driven Assignments (real world)
-  1. Study of NYC Data Mine
+   1. Study of NYC Data Mine
 11. Scaffolding code and skeleton files
 12. Learning by getting things wrong / test driven development
-  1. Reading: Selections from Shore and Watson
+   1. Reading: Selections from Shore and Watson
 13. HW , Assessment, and project design from idea to completion
 14. Code review
 15. General problem solving (how to solve a problem)
