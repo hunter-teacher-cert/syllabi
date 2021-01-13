@@ -77,7 +77,7 @@ N/A
 
 1. Implementing library code
    - CT 4
-1. Using remote tools (Slac, GitHub)
+1. Using remote tools (Slack, GitHub)
    - IC 3, 4
 1. Misc techniques (warm up qotes, tasks etc., class routines)
 

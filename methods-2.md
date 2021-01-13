@@ -7,33 +7,54 @@ Within each of the specific topics, attention will be paid to working with diver
 ## Weekly syllabus:
 
 1. Review of CS Educational experiences
-2. Managing a CS class, introduction to differentiating instruction in a CS class
-   1. Assignment: Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s, develop differentiated lesson.
-3. Python introduction, review of CS learning resources for students and teachers ; review of standards.
+
+1. Python introduction, environment setup review of CS learning resources for students and teachers ; review of standards.
    1.Assignment:L review of APCSP and APCSA curricula.
-4. Using Collaborative tools / SysAdmin and SiteAdmin in the CS classroom
+
+1. Data driven Assignments (real world)
+    1. Study of NYC Data Mine
+	
+
+1. Managing a CS class, introduction to differentiating instruction in a CS class
+   scaffolding / spiralling 
+   1. Assignment: Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s, develop differentiated lesson.
+
+1. Leverageing Current events in computer science 
+
+1. Choosing appropriate tools / languages for learning objectives
+   - NetLogo
+   - Scheme
+   - Scratch
+   - ps5
+   
+1. Using Collaborative tools / SysAdmin and SiteAdmin in the CS classroom / Repl.it / Scratch / Pair Programming
    1. Reading: Griffin and Seals
    2. Assignment: Create github classroom
-5. Using worked examples and code reading
-   1. Reading: Griffin
-   2. Assignment: Create worked example assignment in Python
-6. Reading for computer science
-   1. Reading: Santo
-   2. Assignment: Develop code reading unit
-7. Code reading and code snippets
-   1. Unit presentations
-8. Copying vs collaborating (and related ethical issues)
+   
+1. Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
+   verifying assignments and student work 
+   good vs bad resources for students (stack overflow)
    1. Reading: Calif and Goodwin
-9. Collecting evaluating and distrubuting homework
-   1. Project / Assignment: GitHub lab 
-10. Data driven Assignments (real world)
-    1. Study of NYC Data Mine
-11. Scaffolding code and skeleton files
-12. Learning by getting things wrong / test driven development
+
+1. Learning by getting things wrong / test driven development / discovery learning 
     1. Reading: Selections from Shore and Watson
-13. HW , Assessment, and project design from idea to completion
-14. Code review
-15. General problem solving (how to solve a problem)
+
+1. HW , Assessment, and project design from idea to completion, multi-stage assignments
+
+1.  Code review
+
+1. incremental problems / leveraging existing code  / code and documentation reading  
+   1. Reading: Griffin
+   1. Reading: Santo
+
+1. General problem solving (how to solve a problem)
+
+1. presentations
+
+1. presentations
+
+
+
 
 # Learning Outcomes
 
