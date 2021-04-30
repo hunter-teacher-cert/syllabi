@@ -86,39 +86,61 @@ N/A
 	- Standards
       - CT 6
 1. Project development
-	- Flask assignment review and discussion of accessability
 	- Lab: project development
 1. Project development
-	- Flask assignment review and discussion of accessability
 	- Lab: project development
 
 1. Data Mining (Student led topic)
-	- Finding, retrieving and analyzing real world data.
-	- IC 5, 7
-	- CT 2, 3
+    - Activity: TBD (student generated)
+    - Assignment: TBD (student generated)
+    - Standards
+      - IC 5, 7
+	  - CT 2, 3
 
 1. Public Key Encryption (Student led topic)
-	- CY 1-5 (emphasis on 3)
-	- IC 1,2,4
-	- CT 4,6
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
+     - CY 1-5
+	 - IC 1,2,4
+	 - CT 4,6
 1. Blockchain (Student led topic)
-    - IC  4
-	- CY 1-5
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
+     - IC  4
+	 - CY 1-5
 1. Natural Language Processing (Student led topic)
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
 1. Databases and SQL (Student led topic)
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
    	- IC 7
 
 1. Data Visualization (Student led topic)
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
 	- CT 2, 3
 	- IC 7 
 
 1. Cipher Decryption / Recommender systems (Student led topic)
-	- CY 1-5 (emphasis on 3)
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
+ 	- CY 1-5 (emphasis on 3)
 1. Genetic Programming (Student led topic)
-	- CT 4-9
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+   - Standards
+ 	- CT 4-9
 	- IC 7
-1. Class AI - Search (BFS, DFS, A*) (Student led topic)
-  
+1. Classic AI - Search (BFS, DFS, A*) (Student led topic)
+   - Activity: TBD (student generated)
+   - Assignment: TBD (student generated)
+    
 
 
 ## Hunter College Policy on Academic Integrity
