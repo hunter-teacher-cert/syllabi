@@ -1,3 +1,5 @@
+# Methods for teaching computer science II 
+
 # Course Description
 
 This course will prepare teacher-candidates to use a variety of

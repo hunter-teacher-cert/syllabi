@@ -1,7 +1,7 @@
 # Standards summary
 
 ## CS Classes
-### Programming in a High Level Language (
+### Programming in a High Level Language 
  | Area | Stanards covered |
  |------|------------------|
  | IC   | 3                |
