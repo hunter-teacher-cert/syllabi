@@ -112,17 +112,19 @@ finding the link matching the topic name.
    - binary search trees continued
    - Insertion / deletion
    - lab/assignment: implementation
-1. July 29
+1. July 28
    - Binary search tree analysis
    - More advanced trees
    - Comparison between trees and other data structures (run-time)
    -  Run Time analysis (Big-Oh notation)
    - Standards 
      - NSD 4
-1. July 30
+1. July 29
    - Hash tables 
 	 - closed hasing
      - open hashing.
+1. July 30
+   - Heaps 
  
 
 
