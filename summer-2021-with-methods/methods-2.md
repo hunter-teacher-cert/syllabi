@@ -1,4 +1,5 @@
-# Methods for teaching computer science II 
+# SEDC 72900 - Methods 2
+
 
 # Course Description
 

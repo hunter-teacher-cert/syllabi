@@ -1,4 +1,4 @@
-# Programming in a high level language
+# CSCI 70900 - Programming in a high level language
 
 # Course Description
 

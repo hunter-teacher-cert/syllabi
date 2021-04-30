@@ -17,8 +17,6 @@ From A Variety Of Sources Week To Week And Are Outlined In The
 Syllabus. Student's curricular assignments are expected to be mapped
 to the New York State standards.
 
-Additionally, CT 1,3,4,5,6,7, and 9 are covered in week 
-  
 
 ## Course Description:
 

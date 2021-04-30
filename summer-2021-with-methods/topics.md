@@ -1,4 +1,4 @@
-# Topics in Computer Science
+# CSCI 70700 - Modern Topics in Computer Science
 
 # Course Description
 

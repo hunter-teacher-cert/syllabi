@@ -1,4 +1,4 @@
-# Data Structures
+# CSCI 70300 - Data Structures in a high level language
 
 # Course Description
 
