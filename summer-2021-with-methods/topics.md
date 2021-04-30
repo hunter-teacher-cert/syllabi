@@ -23,7 +23,9 @@ The project must:
 	1. Exhibit that the participants have a knowledge and understanding of the topic.  
     2. Include code illustrating at least proof of concept on the selected topic.
 	
-	3. Include a short homework assignment for the class to allow all students to explore the selected topic.
+	3. Include an in class exercise or activity for the class to allow all students to explore the selected topic.
+	
+	4. Include a short homework assignment for the class to allow all students to explore the selected topic.
 	
 
 
@@ -103,7 +105,6 @@ N/A
     - IC  4
 	- CY 1-5
 1. Natural Language Processing (Student led topic)
-1. Classic AI - Decision Trees (Student led topic)
 1. Databases and SQL (Student led topic)
    	- IC 7
 
